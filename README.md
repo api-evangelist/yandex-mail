@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Yandex Mail is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mail.yandex.com/
+Yandex Mail is a free email service provided by Yandex, a Russian internet company. It offers personal and business email accounts with robust spam protection, security features, and integration with Yandex 360 suite. Users can access mail via web, mobile apps for iOS and Android, and desktop clients. The service includes customizable filters, forwarding, and a clean interface without ads. Yandex Mail supports corporate mailboxes, premium plans, and integrates with other Yandex services like Disk, Calendar, and Docs.
+
+**Areas:** Company · Email · Communication · Cloud · Productivity · Russian
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mail.yandex.com/)
+- [Documentation](https://360.yandex.com/mail/)
+- [Pricing](https://360.yandex.com/premium-plans/)
+- [Support](https://yandex.ru/support/yandex-360/customers/mail/ru/reg)
+- [Blog](https://360.yandex.com/blog/)
+- [Security](https://ya.cc/t/1cSZixjB3gkSva)
+- [Privacy policy](https://yandex.com/legal/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/yandex-mail/](https://apis.io/providers/yandex-mail/).
