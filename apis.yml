@@ -1,0 +1,25 @@
+aid: yandex-mail
+name: Yandex Mail
+description: 'Yandex Mail is a company surfaced via the API Evangelist harvest backlog (source: new-submission)
+  and added to the network as a stub for full-pipeline profiling.'
+url: https://raw.githubusercontent.com/api-evangelist/yandex-mail/refs/heads/main/apis.yml
+x-type: company
+x-source: harvest:new-submission
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-10-28'
+modified: '2026-10-28'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://mail.yandex.com/
+x-submission-probe: 302 https://passport.yandex.com/auth?from=mail&origin=hostroot_homer_auth_oldbro_com&retpath=https%3A%2F%2Fmail.yandex.com%2F&noreturn=1,
+  2026-10-26
